@@ -1,0 +1,29 @@
+# Build directories
+build/
+cmake-build-*/
+dist/
+
+# Compiled binaries
+*.o
+*.a
+*.so
+*.dll
+*.exe
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Output files
+output.c
+*.out
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated
+.cmake/

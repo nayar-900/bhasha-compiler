@@ -1,0 +1,5 @@
+mori {
+    golden machine int x = 42;
+    golden machine int y = 10;
+    darshan("Value: ");
+}
