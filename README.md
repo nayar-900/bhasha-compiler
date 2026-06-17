@@ -11,6 +11,7 @@ A production-grade compiler for the BHASHA custom programming language written i
   - Phase 2: Syntax Analysis (Parsing)
   - Phase 3: Semantic Analysis (Type Checking & Symbol Table)
   - Phase 4: Code Generation (C code generation)
+  
 
 ## Language Keywords
 
